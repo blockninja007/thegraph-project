@@ -1,6 +1,6 @@
 # thegraph-project
 
-This project is a simple example of how to use thegraph to index data from a smart contract and query it using a subgraph.
+This project is a simple example of how to use thegraph to index data from a smart contract and query it using a subgraph. This project indexes data from the [Foundation NFT](https://etherscan.io/token/0x3b3ee1931dc30c1957379fac9aba94d1c48a5405) smart contract and allows you to query the transfer activity of the NFTs.
 
 ## Getting Started
 
